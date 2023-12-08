@@ -2,7 +2,7 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-thevictoressien-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thevictoressien)](https://www.linkedin.com/in/thevictoressien) [![Twitter Badge](https://img.shields.io/badge/-@vic_tke-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/vic_tke)](https://twitter.com/vic_tke)
 
-I'm a data analyst who loves to make sense of data to drive data driven Decision making.
+I'm a data analyst who loves to make sense of data to drive impactful decision making.
 
 **Here's a quick summary about me**:
 
