@@ -12,5 +12,5 @@ I'm a data analyst who loves to make sense of data to drive data driven Decision
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thevictoressieni&show_icons=true&include_all_commits=true&hide_border=true" alt="Victor's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevictoressieni&langs_count=8&layout=compact&hide_border=true" alt="Victor's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thevictoressien&show_icons=true&include_all_commits=true&hide_border=true" alt="Victor's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevictoressien&langs_count=8&layout=compact&hide_border=true" alt="Victor's GitHub stats" /> |
 | ------------- | ------------- |
