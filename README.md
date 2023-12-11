@@ -8,7 +8,7 @@ I'm a data analyst who loves to make sense of data to drive impactful decision m
 
 - I'm currently studying Data Engineering at AltSchool Africa [School of Data](https://data.altschoolafrica.com/) Class of 2024.
 - I’m looking for entry-level opportunities.
-- You can [view my resume](#) and contact me by emailing thevictoressien@gmail.com.
+- You can [view my resume](https://drive.google.com/file/d/1_CkiDI-D4R5qqKMOdT0NXpEFJ5df6cRC/view?usp=sharing) and contact me by emailing thevictoressien@gmail.com.
 
 ---
 
