@@ -2,12 +2,12 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-thevictoressien-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thevictoressien)](https://www.linkedin.com/in/thevictoressien) 
 
-I'm a data analyst who loves to make sense of data to drive impactful decision making.
+A passionate Data Engineer with a solid foundation in Python, SQL, and cloud platforms like Google Cloud, I specialize in building and optimizing scalable data pipelines. My experience spans from implementing ETL workflows to migrating databases, all while ensuring data integrity and efficiency.
 
 **Here's a quick summary about me**:
 
 - I'm currently studying Data Engineering at AltSchool Africa [School of Data](https://data.altschoolafrica.com/) Class of 2024.
-- I’m looking for entry-level opportunities.
+- Seeking opportunities.
 - You can [view my resume](https://drive.google.com/file/d/1byeWVB1zqJ7lNlVzJzXtZT4ptnnh6ZEK/view?usp=drive_link) and contact me by emailing thevictoressien@gmail.com.
 
 ---
